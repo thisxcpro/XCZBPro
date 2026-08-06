@@ -1,0 +1,49 @@
+{
+  "lives": [
+    {
+      "name": "裤佬直播",
+      "type": 0,
+      "url": "https://live.445569.xyz/live.m3u"
+    },
+    {
+      "name": "游魂",
+      "type": 0,
+      "url": "https://www.iyouhun.com/tv/zb"
+    },
+    {
+      "name": "猫TV",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk/"
+    },
+    {
+      "name": "风云港台",
+      "type": 0,
+      "url": "http://iptv.4666888.xyz/FYTV.m3u"
+    },
+    {
+      "name": "网页直播",
+      "type": 0,
+      "url": "http://1.94.31.214/live/webview.txt"
+    },
+    {
+      "name": "组播大全",
+      "type": 0,
+      "url": "http://jiekou.dpdns.org/xiang/hotel.php"
+    },
+    {
+      "name": "天神直播",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ds.png"
+    },
+    {
+      "name": "免翻4GTV",
+      "type": 0,
+      "url": "http://4gtv.cnlive.club/4gtv.m3u"
+    },
+    {
+      "name": "广东兄弟专用",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://github.com/hwxcz/dj.m3u/raw/4046a1d0732b59827df7cca13ac7658b1a0ac9bb/DJ.txt"
+    }
+  ]
+}
