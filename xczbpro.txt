@@ -223,20 +223,20 @@ CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 
 央视②,#genre#
-CCTV-01,http://m.061899.xyz/mg/cctv1
-CCTV-01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV-02,http://m.061899.xyz/mg/cctv2
-CCTV-02,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV-03,http://m.061899.xyz/mg/cctv3
-CCTV-03,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-04,http://m.061899.xyz/mg/cctv4
-CCTV-05,http://m.061899.xyz/mg/cctv5
+CCTV-1,http://m.061899.xyz/mg/cctv1
+CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV-2,http://m.061899.xyz/mg/cctv2
+CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV-3,http://m.061899.xyz/mg/cctv3
+CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV-4,http://m.061899.xyz/mg/cctv4
+CCTV-5,http://m.061899.xyz/mg/cctv5
 CCTV-5+,http://m.061899.xyz/mg/cctv5p
-CCTV-06,http://m.061899.xyz/mg/cctv6
-CCTV-07,http://m.061899.xyz/mg/cctv7
-CCTV-08,http://m.061899.xyz/mg/cctv8
-CCTV-08,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV-09,http://m.061899.xyz/mg/cctv9
+CCTV-6,http://m.061899.xyz/mg/cctv6
+CCTV-7,http://m.061899.xyz/mg/cctv7
+CCTV-8,http://m.061899.xyz/mg/cctv8
+CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV-9,http://m.061899.xyz/mg/cctv9
 CCTV-10,http://m.061899.xyz/mg/cctv10
 CCTV-11,http://m.061899.xyz/mg/cctv11
 CCTV-12,http://m.061899.xyz/mg/cctv12
@@ -365,8 +365,6 @@ CGTN,http://116.147.111.62:7788/609017205
 黑龙江卫视,http://116.147.111.62:7788/738906901
 
 其他频道,#genre#
-CETV1,http://111.8.242.142:9999/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV4,http://111.8.242.142:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 书画,http://111.8.242.142:9999/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 书画,http://111.8.242.127:9999/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 全纪实,http://111.8.242.142:9999/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
